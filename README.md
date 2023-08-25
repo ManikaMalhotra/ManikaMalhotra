@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 🚀 I'm a passionate Engineering Student majoring in Computer Science, constantly fueled by curiosity and a drive to create. Whether it's diving into the latest technologies or contributing to open source projects, I'm always up for a coding adventure. Let's collaborate and build amazing things together! 🤝
 
-<img align="right" height="280" src="./assets/techstack.gif" />
+<img align="right" height="300" src="./assets/techstack.gif" />
 
 ## About Me
 - 🔭 Currently, my focus is on crafting scalable applications that can make a real impact. I'm also dedicated to honing my problem-solving skills through Data Structures and Algorithms practice.
